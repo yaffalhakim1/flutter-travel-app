@@ -1,6 +1,8 @@
-# letravel
+# Travel App
 
-A new Flutter project.
+A new Flutter project. Implementation from Travel App UI Concept
+
+Design Source : https://dribbble.com/shots/6510521-Travel-App-for-booking-unique-experience
 
 ## Getting Started
 
