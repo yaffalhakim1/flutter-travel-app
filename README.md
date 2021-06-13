@@ -4,7 +4,7 @@ A new Flutter project. Implementation from Travel App UI Concept
 
 Design Source : https://dribbble.com/shots/6510521-Travel-App-for-booking-unique-experience
 
-https://cdn.dribbble.com/users/2137652/screenshots/6510521/travel_app__background__4x.png?compress=1&resize=1200x900
+
 
 ## Getting Started
 
